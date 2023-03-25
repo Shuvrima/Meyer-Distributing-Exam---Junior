@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLEMrjoLjUdj6XzS2iXjEP6Yi7G80WpYU83ppDPwCPN2/9p1n1SZ9Y1pUin5V07Lqi2xtJko0UT9WmO3Mi8iHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alams\\OneDrive\\Documents\\ShuvrimaJobSearch2023\\Meyer Distributing Exam - Junior\\Meyer Distributing Exam - Junior\\InterviewTest\\InterviewTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alams\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alams\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alams\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alams\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
